@@ -1,0 +1,14 @@
+[
+        {
+                "name": "Save On",
+                "uniqueTo": "Gunma Empire",
+                "replaces": "Market",
+                "gold": 2,
+                "culture": 2,
+                "faith": 1,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25, "culture": 15},
+		"requiredTech": "Currency"
+        }
+]
