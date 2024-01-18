@@ -6,8 +6,23 @@
                 "preferredVictoryType": "Domination",
                 "outerColor": [81,0,9],
 		"innerColor": [255,120,0],
-                "uniqueName": "Mysterious Force",
-                "uniques": ["[+100]% Strength for cities <when attacking>","[1] additional attacks per turn <for [All] units>"],
+                "uniqueName": "Mysterious Force", // 不思議な力で死ぬことになる
+                "uniques": ["[+100]% Strength for cities <when attacking>","[1] additional attacks per turn <for [Ranged] units>"],
                 "cities": ["Maébaßi","N'matta","Kenashi Hill"]
-        }
+	},
+	{
+		"name": "Republic Totsigi",
+	        "leaderName": "Tomikazu Fukuda",
+                "adjective": ["Tochigi Kenmin"],
+                "preferredVictoryType": "Domination",
+                "outerColor": [81,0,9],
+		"innerColor": [255,120,0],
+                "uniqueName": "Mysterious Force", // 不思議な力で死ぬことになる
+                "uniques": ["[+100]% Strength for cities <when attacking>","[1] additional attacks per turn <for [Ranged] units>"],
+                "cities": ["Vtunomiya","N'matta","Kenashi Hill"]
+	},
+	{
+	},
+	{
+	}
 ]
