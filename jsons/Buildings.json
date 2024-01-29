@@ -10,5 +10,16 @@
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25, "culture": 15},
 		"requiredTech": "Currency"
+        },
+	{
+		"name": "Northern-Kanto Industrial Belt",
+                "uniqueTo": "Gunma Empire",
+                "replaces": "Ironworks",
+		"cost": 125,
+		"production": 8,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Workshop] in all cities", "Cost increases by [30] per owned city", "Creates a [Manufactory] improvement on a specific tile"],
+		"requiredTech": "Machinery"
         }
 ]
