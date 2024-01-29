@@ -14,7 +14,7 @@
 		"name": "Republic Totsigi",
 	        "leaderName": "Tomikazu Fukuda",
                 "adjective": ["Tochigi Kenmin"],
-                "preferredVictoryType": "Domination",
+                "preferredVictoryType": "Cultural",
                 "outerColor": [81,0,9],
 		"innerColor": [255,120,0],
                 "uniqueName": "Lemon Milk",
@@ -25,11 +25,11 @@
 		"name": "Ibarakistan",
 	        "leaderName": "Tomikazu Fukuda",
                 "adjective": ["Ibarakian"],
-                "preferredVictoryType": "Domination",
+                "preferredVictoryType": "Diplomatic",
                 "outerColor": [81,0,9],
 		"innerColor": [255,120,0],
                 "uniqueName": "Kanto Federation State",
-                "uniques": ["[100] Unit Supply"],
+                "uniques": ["[100] Unit Supply","[+1 Science, +1 Production] from [Great] tiles [in all cities]"],
                 "cities": ["Mitosk","Kasamakand","Tuchurapol","Tskbad","Inashikinsk","Kashimaty","Nebanevada"]
 	}
 ]
