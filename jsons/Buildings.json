@@ -12,7 +12,7 @@
 		"requiredTech": "Currency"
         },
 	{
-		"name": "Northern-Kanto Industrial Belt",
+		"name": "Northern-Kanto Industrial District",
                 "uniqueTo": "Gunma Empire",
                 "replaces": "Ironworks",
 		"cost": 125,
